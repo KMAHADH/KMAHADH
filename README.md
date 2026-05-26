@@ -1,6 +1,6 @@
 # Hi, I'm Khwaja Mahad Haq 👋
 
-### 👨‍💻 Technical Support Engineer & Linux Administrator
+### 👨‍💻 Technical Support/HelpDesk & Linux Administrator
 
 I am an entry-level IT professional passionate about automation, system administration, and optimizing infrastructure. With a strong foundation in managing Linux-based environments, configuring headless server architectures, and developing custom technical utilities, I bridge the gap between complex systems and efficient user support.
 
