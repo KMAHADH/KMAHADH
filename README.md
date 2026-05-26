@@ -1,49 +1,55 @@
 # Hi, I'm Khwaja Mahad Haq 👋
 
-### 👨‍💻 Technical Support/HelpDesk & Linux Administrator
+### 👨‍💻 Technical Support | Help Desk | Linux Administrator
 
-I am an entry-level IT professional passionate about automation, system administration, and optimizing infrastructure. With a strong foundation in managing Linux-based environments, configuring headless server architectures, and developing custom technical utilities, I bridge the gap between complex systems and efficient user support.
-
----
-
-### 🛠️ Technical Toolkit
-
-- **Operating Systems:** Linux (Ubuntu, Debian, Arch, RHEL), Windows 10/11, Windows Server
-- **Scripting & Automation:** Bash, PowerShell, Node.js, Python
-- **Hardware & Networking:** Raspberry Pi deployment, Network Diagnostics (TCP/IP, DNS, DHCP), Hardware Troubleshooting
-- **Tools & Core Concepts:** Git/GitHub, System Monitoring, Troubleshooting Methodologies, Documentation & Knowledge Base Management
+I’m an IT professional focused on **support automation, system administration, and infrastructure optimization**. With hands-on experience across **Windows and Linux environments**, I specialize in configuring headless systems, building lightweight utilities, and creating clean, reliable workflows that make technical operations smoother for everyone.
 
 ---
 
-### 🚀 Highlighted Projects
+## 🛠️ Technical Toolkit
 
-#### 📂 Project Name: Linux/Windows [Automated OS Provisioning]
-*A set of master script designed to automate post-installation workflows for fresh Linux/Windows deployments.*
-- **Key Features:** Automates repository updates, patches dependencies, and installs critical diagnostic tools (`nmap`, `htop`, network utilities) in a single command.
-- **Tech Used:** Bash / Shell Scripting
-
-#### 📂SysMon [Remote System Usage Monitor]
-*A lightweight hardware monitoring and alerting agent built for headless environments.*
-- **Key Features:** Tracks CPU vitals, thermal thresholds, and active connections, pushing real-time webhook alerts to Slack/Discord during a resource bottleneck.
-- **Tech Used:** Node.js, Linux Cron Jobs
-
-#### 📂 ProText [A browser based text editor]
-*A responsive, feature-rich custom text editor tailored for clean formatting and quick documentation management.*
-- **Key Features:** Built with a clean UI optimized for rapid note-taking, draft creation, and structuring internal technical documentation.
-- **Tech Used:** HTML, CSS, JavaScript
+- **Operating Systems:** Linux (Ubuntu, Debian, Arch, RHEL), Windows 10/11, Windows Server  
+- **Identity & Administration:** Active Directory, Azure AD (Entra ID), IAM (Identity & Access Management), Group Policy (GPO)
+- **Scripting & Automation:** Bash, PowerShell, Node.js, Python  
+- **Hardware & Networking:** Raspberry Pi deployments, TCP/IP, DNS, DHCP, hardware diagnostics  
+- **Support & Operations:** ITIL Framework, ticket lifecycle tracking, endpoint patch management, documentation & KB management
 
 ---
 
-### 🧠 Troubleshooting Philosophy & Focus
-- **Proactive Documentation:** I believe the best way to solve a problem permanently is to document it flawlessly for the next technician.
-- **Root-Cause Analysis:** Moving past surface-level symptoms to find exactly why a package conflict, network interface, or driver misbehaved.
-- **Automation First:** If a routine task takes more than three clicks, it's a candidate for a script.
+## 🚀 Highlighted Projects
+
+### 📂 **Automated OS Provisioning**
+*A master script suite for automating post-installation workflows on fresh Linux/Windows deployments.*  
+- **Key Features:** Repository updates, dependency patches, diagnostic tool installation (`nmap`, `htop`, network utilities) — all in one command  
+- **Tech Used:** Bash, Shell Scripting, PowerShell  
 
 ---
 
-### 📫 Connect with Me
+### 📂 **SysMon — Remote System Usage Monitor**
+**A lightweight monitoring and alerting agent designed for headless environments.**  
+- **Key Features:** CPU vitals, thermal thresholds, active connection tracking, real-time webhook alerts (Slack/Discord) during resource spikes  
+- **Tech Used:** Node.js, Linux Cron Jobs  
 
-- **LinkedIn:** https://www.linkedin.com/in/khwaja-haq-97b09a210/
-- **Email:** kmahadh@gmail.com
+---
+
+### 📂 **ProText — Browser-Based Text Editor**
+**A clean, responsive text editor optimized for fast documentation and internal note-taking.**  
+- **Key Features:** Minimal UI, rapid drafting, structured formatting for technical documentation  
+- **Tech Used:** HTML, CSS, JavaScript  
+
+---
+
+## 🧠 Troubleshooting Philosophy
+
+- **Proactive Documentation:** A problem isn’t solved until it’s documented clearly for the next technician  
+- **Root-Cause Analysis:** Digging past symptoms to identify the exact misconfiguration, conflict, or failure  
+- **Automation First:** If a task takes more than three clicks, it’s a candidate for a script  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/khwaja-haq-97b09a210](https://www.linkedin.com/in/khwaja-haq-97b09a210/)  
+- **Email:** kmahadh@gmail.com  
 
 ⚡ *Fun fact: I love experimenting with headless single-board computers and optimizing hardware controls directly through the CLI.*
