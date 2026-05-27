@@ -18,7 +18,7 @@ I’m an IT professional focused on **support automation, system administration,
 
 ## 🚀 Highlighted Projects
 
-### 📂 **Automated OS Provisioning**
+### 📂 **AutoProv — Automated OS Provisioning**
 *A master script suite for automating post-installation workflows on fresh Linux/Windows deployments.*  
 - **Key Features:** Repository updates, dependency patches, diagnostic tool installation (`nmap`, `htop`, network utilities) — all in one command  
 - **Tech Used:** Bash, Shell Scripting, PowerShell  
